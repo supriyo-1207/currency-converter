@@ -12,7 +12,7 @@ Currency Converter is a web application that allows users to convert amounts bet
 
 ## Live Link
 
-[Click here to view the live demo](https://supriyomaity1207.github.io/currency-converter/)
+[Click here to view the live demo](https://supriyo-1207.github.io/currency-converter/)
 
 ## Preview
 
